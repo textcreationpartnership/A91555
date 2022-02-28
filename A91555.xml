@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Berachah, or Englands memento to thankefulnesse being a hymne or spirituall song setting forth the praises of God, and extolling the wondrous workes which he hath wrought for the Church of England alate, drawn forth from the scriptures, especially those songs made upon the like occasion, and composed together, to draw out our hearts the more in praises. / By R.P. Minister of Gods Word.</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91555</idno>
+            <idno type="STC">Wing P95</idno>
+            <idno type="STC">Thomason 669.f.10[77]</idno>
+            <idno type="STC">ESTC R210574</idno>
+            <idno type="EEBO-CITATION">99869358</idno>
+            <idno type="PROQUEST">99869358</idno>
+            <idno type="VID">162612</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162612)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Berachah, or Englands memento to thankefulnesse being a hymne or spirituall song setting forth the praises of God, and extolling the wondrous workes which he hath wrought for the Church of England alate, drawn forth from the scriptures, especially those songs made upon the like occasion, and composed together, to draw out our hearts the more in praises. / By R.P. Minister of Gods Word.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for John Hancocke in Popes-Head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved portraits of Robert, Earl of Essex, and of Sir Thomas Fairfax.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "Aug: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162612:1" rendition="simple:additions"/>
+            <head>BERACHAH,
+OR,
+Englands Memento
+TO
+THANKEFVLNESSE,
+BEING
+An Hymne or Spirituall Song ſetting forth the
+Praiſes of God, and extolling the wondrous workes which He
+hath wrought for the Church of England a late, drawn forth from the
+Scriptures, eſpecially thoſe Songs made upon the like occaſion, and com<g ref="char:EOLhyphen"/>poſed
+together, to draw out our hearts the more in Praiſes.</head>
+            <epigraph>
+               <bibl>PSAL. 66. 2. 3.</bibl>
+               <q>Sing forth the honour of his name, make his praiſe glorious. Say unto God,
+How terrible are thou in thy workes? through the greatneſſe of thy
+power ſhall thine enemies ſubmit themſelves unto thee.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>JER. 10. 16.</bibl>
+               <q>The portion of <hi>Iacob</hi> is not like them, for he is the former of all things, and
+<hi>Iſrael</hi> is the Rod of his Inheritance, the Lord of Hoſts is his Name.</q>
+            </epigraph>
+            <div type="illustrations">
+               <p>
+                  <figure>
+                     <p>Robert Earle of Eſsex his Exellence
+Lord Generall of the Parli<hi rend="sup">mts</hi>: Army etc:</p>
+                  </figure>
+                  <figure>
+                     <p>The most Exellent S Thomas Fairfax
+Captin Generall of the Armyes etc:</p>
+                  </figure>
+               </p>
+            </div>
+            <div type="song">
+               <head>Hallelujah.</head>
+               <l>
+                  <note n="a" place="margin">Exod. 15. 1. <hi>&amp;c.</hi>
+                  </note> COme, let us ſing unto the Lord,
+for gloriouſly hath he</l>
+               <l>Triumphed, horſe and rider both
+throwne downe together be.</l>
+               <l>The Lord hath been our ſtrength, and he
+therefore ſhall be our Song.</l>
+               <l>He hath become ſtill unto us,
+ſalvation all along.<label type="milestone">
+                     <seg type="milestoneunit">note </seg>1</label>
+               </l>
+               <l>He is our God, haſte to prepare <label type="milestone">
+                     <seg type="milestoneunit">note </seg>2</label>
+his habitation.</l>
+               <l>Our Fathers God, Come let us then
+exalt him every one; <label type="milestone">
+                     <seg type="milestoneunit">note </seg>3</label>
+               </l>
+               <l>The Lord he is a man of warre,
+<hi>Iehovah</hi> is his name.</l>
+               <l>
+                  <note n="b" place="margin">Pſal. 68. 17.</note> His Charets twenty thouſand are
+and he amidſt the ſame,</l>
+               <l>
+                  <note n="c" place="margin">Exod. 15. 6. <hi>&amp;c.</hi>
+                  </note> Thy right hand Lord hath ſhowne it ſelfe
+in power gloriouſly,</l>
+               <l>In pieces Lord thy right hand hath
+daſhed the Enemy,</l>
+               <l>And in the greatneſſe of thine owne
+excelling ex'lency,</l>
+               <l>Thou haſt orethrowne, againſt thee, who
+themſelves did magnifie.</l>
+               <l>Thou didſt ſend forth thy wrath, and it
+conſum'd them ſuddenly,</l>
+               <l>Like as the fire doth conſume
+the ſtubble that is dry.</l>
+               <l>
+                  <note n="d" place="margin">
+                     <hi>Dan.</hi> 4. 37. ſo confeſſed that great Monarch.</note> Who walke in pride, thou able art
+full low for to abaſe:</l>
+               <l>And ſuch who are deſpis'd canſt rayſe,</l>
+               <l>And ſet up in their place.</l>
+               <l>Let all thy people unto thee</l>
+               <l>O God our God give praiſe,</l>
+               <l>Let every one ſpeake well of thee</l>
+               <l>and bleſſe thy name alwayes.</l>
+               <l>
+                  <note n="e" place="margin">Exod. 15. 11.</note> O Lord among the mighty ones
+what one is like to thee?</l>
+               <l>
+                  <note n="f" place="margin">Pſal. 89. 6.</note> Or who in earth, or in the heavens
+with thee compar'd may be?</l>
+               <l>Who is like thee ſo glorious
+in holineſſe, and in <label type="milestone">
+                     <seg type="milestoneunit">note </seg>4</label>
+               </l>
+               <l>Praiſes ſo fearefull, wonders great
+ſtill every day doing?</l>
+               <l>
+                  <note n="g" place="margin">Pſal. 92. 5.</note> O Lord how glorious are thy workes!
+thy thoughts are very deepe:</l>
+               <l>
+                  <note n="h" place="margin">
+                     <hi>Pſal.</hi> 77. 13. In the San<g ref="char:EOLhyphen"/>ctuary ſome referre it to heaven, in the Sanct: (<hi>i. e</hi>) high and ex<g ref="char:EOLhyphen"/>cellent above our apprehenſion; or in the Sanct: (<hi>i. e.</hi>) hidden from the eyes of the world, &amp;c.</note> Thy way is in the holy place
+thou ſecret it doſt keep.</l>
+               <l>
+                  <note n="i" place="margin">Pſal. 92. 7.</note> For when the wicked ſprang as graſſe,<label type="milestone">
+                     <seg type="milestoneunit">note </seg>5</label>
+and when did flouriſh all</l>
+               <l>The workers of iniquity,
+together did they fall. <hi>Selah.</hi>
+               </l>
+               <l>
+                  <note n="k" place="margin">Iob 20. 5.</note> Gods enemies triumphing's ſhort,
+when like the Cedars tall,</l>
+               <l>They ſpread and lift aloft their head,
+as dung they periſh all.</l>
+               <l>
+                  <note n="l" place="margin">
+                     <hi>Exod.</hi> 15. 9. This eſpecially was the inſulting language and carriage of the enemy after the taking of <hi>Briſtoll, Bolton, Leceſter,</hi> &amp;c.</note> The Enemy ſaid, I will purſue,
+them overtake will <hi>I,</hi>
+               </l>
+               <l>I will divide the ſpoile, on them
+my Iuſt will ſatisfie:</l>
+               <l>I will my ſword draw, and my hand
+at once them now ſhall ſlay,</l>
+               <l>Thou didſt but ſpeake the word and they
+forthwith were ſwept away. <hi>Selah.</hi>
+               </l>
+               <l>
+                  <note n="m" place="margin">Iudg. 5. 41.</note> Thy foes which are implacable
+ſo periſh in thy ſight,</l>
+               <l>But who thee love be as the Sun
+when marching in his might.</l>
+               <l>Let all thy people unto thee</l>
+               <l>O God our God, &amp;c.</l>
+               <l>
+                  <note n="n" place="margin">Pſal. 68. 20.</note> Our God he is the God to whom
+ſalvations doe belong,</l>
+               <l>Of life and death he doth diſpoſe
+his enemies among.<label type="milestone">
+                     <seg type="milestoneunit">note </seg>6</label>
+               </l>
+               <l>
+                  <note n="o" place="margin">Mounts of prey, or the Mountaines of the Lyons &amp; the Leopards (<hi>i. e.</hi>) the Kingdomes of this world which are ful of rapine and extortion, and make prey and ſpoile one of another like wilde beaſts, but the Lambe on Mount Sion excels them all in power and gl<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry.</note> Glorious art thou, more excellent
+then all the mounts of prey:</l>
+               <l>The ſtout in heart are ſpoyl'd, have ſlept
+their ſleepe, their hands have they</l>
+               <l>Not found, who are the men of might,
+O thou art to be fear'd,</l>
+               <l>Even thou, for who could ſtand before
+Thine anger when't appear'd?</l>
+               <l>
+                  <note n="o" place="margin">Iob 12 21.</note> Thou powr'ſt contempt on Princes high,
+and weak the ſtrength doſt make</l>
+               <l>Of mighty ones, and in their crafts <label type="milestone">
+                     <seg type="milestoneunit">note </seg>7</label>
+               </l>
+               <l>
+                  <note n="p" place="margin">Iob 12. 13.</note> the ſubtle ones doſt take. <hi>Higgai<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Selah.</hi>
+               </l>
+               <l>Their cloſe and hidden purpoſes
+thou doſt defeate likewiſe,</l>
+               <l>So that their hands cannot performe
+that which their heads devi'd.</l>
+               <l>
+                  <note n="q" place="margin">1 Sam 2. 2. 3.</note> There is none holy as the Lord,
+beſides him there is none,</l>
+               <l>Nor rocke unto the Lord our God
+like is there any one.</l>
+               <l>Let not the enemy then talke
+ſo high, nor be ſo ſtout,</l>
+               <l>Neither let arrogancy ſtill
+forth of their mouthes come out.</l>
+               <l>For why? the Lord he is a God
+of knowledge, and doth try</l>
+               <l>Mens actions, and the hidden things
+of darkeneſſe doth deſcry. <hi>Selah.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">note </seg>8</label>
+               </l>
+               <l>Let all thy people, &amp;c.</l>
+               <l>
+                  <note n="r" place="margin">Pſal. 148. 13</note> Let us exalt his name, his name
+alone is excellent,</l>
+               <l>His glory is above the earth
+above the firmament.</l>
+               <l>O who is like to Sions God
+who dwelleth ſo on high,</l>
+               <l>
+                  <note n="ſ" place="margin">Pſal. 113. 5. 6.</note> That in beholding things in heaven
+himſelfe humbleth thereby.</l>
+               <l>
+                  <note n="t" place="margin">Neh. 9. 5. His Fame is more glorious then tongue of men and Angells can expreſſe.</note> Come let us bleſſe the Lord this God
+for ever more alwayes:</l>
+               <l>And bleſſed be his glorious name
+which is above all praiſe.</l>
+               <l>
+                  <note n="u" place="margin">Pſal. 76. 12. Iun. Vindemi<g ref="char:EOLhyphen"/>a<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: gathereth as grapes, The de<g ref="char:EOLhyphen"/>ſtruction of the mightieſt to him is but as the nipping of a bunch of grapes with men, &amp;c.</note> The ſpirit even of Princes he
+cuts off at once, yea he</l>
+               <l>Is terrible to Kings on high
+or great ſo e're they be.</l>
+               <l>
+                  <note n="w" place="margin">1 Sam. 2. 8. &amp;c.</note> The Pillars of the earth they are
+the Lords, and he hath ſet</l>
+               <l>This world upon them, he will ſave
+his Saints, and who ſhall let?</l>
+               <l>The adverſaries of the Lord
+in picaes ſhall be broke.</l>
+               <l>And thoſe who will not ſtoope to Chriſt
+but ſtill reſiſt his yoke,</l>
+               <l>In darkneſſe they ſhall ſilent be,
+their hearts for feare ſhall faile:</l>
+               <l>For there is none that ſhall by ſtrength
+of potency prevaile.</l>
+               <l>
+                  <note n="x" place="margin">Pſal. 116. 12. Gen. 32 10.</note> What ſhall we render to the Lord?
+or what can render we,</l>
+               <l>For all his benefits, our ſelves,
+leſſe than the leaſt who be?</l>
+               <l>Let all thy people, &amp;c.</l>
+               <l>
+                  <note n="a" place="margin">(i. e.) The Lord is there Ezek. 48. 35.</note> 
+                  <hi>Iehovah Shammah,</hi> Taunton we <label type="milestone">
+                     <seg type="milestoneunit">note </seg>9</label>
+many call for God was there. <hi>Selah</hi>
+               </l>
+               <l>
+                  <hi>Iohovah niſſi,</hi> Glouceſter,<label type="milestone">
+                     <seg type="milestoneunit">note </seg>10</label>
+For he their banner were,<note n="b" place="margin">(<hi>i e.</hi>) <hi>The Lord my banner Exod.</hi> 17. 15. So was he the ban<g ref="char:EOLhyphen"/>ner of that place and people, in a moſt glorious, gracious, won<g ref="char:EOLhyphen"/>derfull and never to be forgot<g ref="char:EOLhyphen"/>ten manner: in inabling ſuch an unlikely place, but an handfull in comparriſon, to ſtand it out ſo long, when no releefe could be had, againſt ſuch a potent and numerous Army, who ha<g ref="char:EOLhyphen"/>ving taken <hi>Briſtoll</hi> were ſo fluſh, that they thought preſently to have ſwallowed up all before them, &amp;c. But unto God the Lord belong the Iſſues from death.</note>
+               </l>
+               <l>
+                  <note n="c" place="margin">(<hi>i. e.</hi>) The Lord will ſee or provide, as it is ſaid, to t<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is day, even to this day, our dayes, in the Mount of the Lord it ſhall be ſeene: yea the Lord hath oft been ſeen in the Mount of late, we might call many other places ſo, he hath ſtill made his peoples extreamity, his oppor<g ref="char:EOLhyphen"/>tunity. And he appeares in the mount, that ſo he might be ſeen, and his people take notice the more of his glorious wo<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kings for them. But eſpeci<g ref="char:EOLhyphen"/>ally he appeared in the behalfe of a deſpiſed army at <hi>Nazeby</hi>; O that never to be forgotten vi<g ref="char:EOLhyphen"/>ctory there! How ſad had our condition been? What had be<g ref="char:EOLhyphen"/>come of the aſſociated Coun<g ref="char:EOLhyphen"/>ties had not the Lord appea<g ref="char:EOLhyphen"/>led in that nicke of time? Pride there being a higheſt forthwith fell, and could never ſince reco<g ref="char:EOLhyphen"/>ver it ſelfe againe. <hi>Halleluiah.</hi>
+                  </note> 
+                  <hi>Iohavah Iareth, Nazeby.</hi> ſaid
+we likewiſe well may call.</l>
+               <l>For there ith' mount the Lord appeared,
+and lofty ones did fall. <hi>Selah.</hi>
+               </l>
+               <l>Let them confeſſe then, greater than
+all gods, the <hi>L</hi>ords to be.</l>
+               <l>
+                  <note n="d" place="margin">Exod. 18. 11.</note> For wherein they dealt proudly, him
+above them they might ſee.</l>
+               <l>
+                  <note n="e" place="margin">Pſal 93. 3, 4.</note> The flouds did there lift up their waves,
+the waters high did roare.</l>
+               <l>But they forthwith began to ebbe,
+and could prevaile no more. <hi>Selah.</hi>
+               </l>
+               <l>And now the wondrous workes O God
+ſince done for us by thee,</l>
+               <l>
+                  <note n="f" place="margin">Pſal. 40. 5.</note> So many are, in order none <label type="milestone">
+                     <seg type="milestoneunit">note </seg>11</label>
+can reckon them to thee.</l>
+               <l>
+                  <note n="g" place="margin">Pſal. 145. 5</note> The generation yet to come
+thy workes ſhall celebrate.</l>
+               <l>And eke declare the mighty acts
+which thou haſt wrought alate.</l>
+               <l>
+                  <note n="h" place="margin">Pſal. 34. 3.</note> Come let us magnifie the Lord,
+and let us every one</l>
+               <l>Exalt his Name together, and
+for ever call upon</l>
+               <l>
+                  <note n="i" place="margin">Pſal. 45. 19.</note> His Name, for he hath not unto
+the Seed of <hi>Iacob</hi> ſaid,</l>
+               <l>Seeke ye my face in vaine; but hath
+full good his promiſe made.<label type="milestone">
+                     <seg type="milestoneunit">note </seg>12</label>
+               </l>
+               <l>
+                  <note n="k" place="margin">berachah (i. e) <hi>Bleſſing and Praiſe.</hi> 2 Chron. 20. 26. <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our heart breath our monthes yea our whole lives ſpeake nothing but praiſe and thanksfulneſſe, that ſo we may ſhew forth, yea <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uſe to <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> forth the praiſes, the praiſes of Him, who hath ſo abundantly and apparently ſh<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wen forth his ſaluation for us: Let the Churches name in <hi>Engla<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> be called the Church of <hi>Berachah,</hi> Bleſsing and praiſe to all generations. 2 Chron. 20. 26.</note> 
+                  <hi>Berachah</hi> to the Lord our God
+both hearts and mouthes now be,</l>
+               <l>Yea, our whole lives, <hi>Berachah,</hi> yea
+<hi>Berachah,</hi> wholly we. <hi>Halleluiah.</hi>
+               </l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto thee O God doe we give thanks, unto thee
+doe we give thanks for that thy Name is neare, thy
+wondrous workes have declared. <hi>Pſal.</hi> 75. 1.</l>
+               <l>Praiſe ye the Lord: for it is good to ſing praiſes unto
+our God: for it is pleaſant, and praiſe is comely.
+The Lord buildeth up Hieruſalem, &amp;c. Pſal. 147. 1, 2.</l>
+            </div>
+            <div type="commentary">
+               <p>(1) As often before, ſo eſpecially more eminently, and frequently, ſince this Parliament began.
+<hi>Nov.</hi> 3. 1640. firſt in making way for it, yea in commanding it again even beyond our expectations,
+after it was once diſſolved, and the Sun of our hopes as inſtrumentall ſeemed to be ſet, and
+in removing, what might impede the continuance of it for the future. Secondly, in preſerving
+Parliament, City, and Kingdome, from utter ruine ever ſince: notwithſtanding all the hoſtill power,
+Machiavilian policy, Achitophelian counſell abroad, and ſecret plots, and ſubtile and crafty under<g ref="char:EOLhyphen"/>minings
+at home. Look backe to the demanding of the five honourable Members after an hoſtile man<g ref="char:EOLhyphen"/>ner,
+&amp;c. <hi>Jan.</hi> 4. 1641. The preſerving of <hi>Hull,</hi> and that notwithſtaning Sir <hi>John Hothams</hi> ſince proving
+treacherous, &amp;c. The great victory at <hi>Edge-hill, Octob. 22. 1643. Nowberry, Nampwich,</hi> where <hi>Byron</hi> with
+that bloudy, barbarous, and cruell enemy, had a very great defeate, and was utterly touted, and where
+beſides other remarkeable paſſages, there were taken an hundred and twenty <hi>Iriſh</hi> women with
+long Skeans. And ſo <hi>I</hi> might paſſe on, but for a more exact relation of theſe and others, ſee that Liſt
+lately printed of the many victories under his Excellency the Earle of <hi>Eſſex,</hi> &amp;c. and his Excellency
+Sir <hi>Thomas Fairfax.</hi>
+               </p>
+               <p>(2) When God is rebuilding our houſes, then we ſhould haſten eſpecially to build his houſe <hi>Hag.</hi> 1.
+4. Thoſe many and great victories vouchſafed of late call for, yea impoſe this charge on thoſe eſpe<g ref="char:EOLhyphen"/>cially,
+it moſt concernes, ſo much the more to haſten the preparing and finiſhing his habitation,
+<hi>Ezra</hi> 1, 2. The more he doth for the Kingdome, the more ſhould be done in and for his Church, &amp;c.</p>
+               <p>(3) <hi>A man of warre,</hi> Hebr. iſh milchama, vir belli, Nomen viri hic cum adjectione nihil, aliud ſig<g ref="char:EOLhyphen"/>nificat
+quam praeſtantiam virtutis qua Deo tribuitur, &amp; vicem habet adjectivi quaſi, quis diceret, bellator
+fortis, animoſus, praeſtantiſſimus aut magnanimus, <hi>a moſt excellent warriour.</hi>
+               </p>
+               <p>(4) Fearefull in prayſes, <hi>Hebr. Nora tehilloth, terribilis laudibus,</hi> terrible in prayſes, <hi>Jun. re<g ref="char:EOLhyphen"/>verendus,
+quaſi maxima reverentia landandus:</hi> we ſhould feare when we prayſe him, becauſe we
+cannot prayſe him as is meete, His glorious name is exalted above all prayſe and bleſſing. <hi>Neh.</hi> 9. 5.
+or, who by thy excellent and famous workes cauſeſt thy ſelfe to be feared.</p>
+               <p>(5) Severall times, and in ſeverall places, as at <hi>Edge-hill, Namptwich, Marſton Moore</hi> neare <hi>Yorke,</hi>
+but eſpecially at <hi>Naſeby. Tolluntur in altum ut lapſu graviore cadant.</hi> And how ſuddenly did that blazing
+Comet in the <hi>North,</hi> which ſeemed to portend ſuch direfull things, when at higheſt, fall down to the
+earth, and was troden under foot? I meane <hi>Montroſſe</hi> and his Confederates, O how marvellous, how
+ſeaſonable, how ſudden, was that turn of things, <hi>Sept.</hi> 16. 1645. a time never to be forgotten, in which
+our Brethren had as it were a reſurrection from the dead, <hi>Micah</hi> 7. 8. rejoyce not, &amp;c. and <hi>ver.</hi> 10, &amp;c.</p>
+               <p>(6) Vnto God the Lord belong the iſſues from death, or goings out from death. How often have
+our brethren in ſeverall parts of this Kingdome of late been in the very valley of the ſhadow of death,
+and there ſeemed to be no iſſue, nor paſſage out, nor eſcaping, yet the God who keepes all the wayes
+and paſſages, that lead out from death, hath opened them, let them out thereat, and delivered them.
+We might ſee the truth of this wonderfully confirmed formely in 88, when the enemy had (as
+it were) environed this Iſland with (as they call'd it) an invincible Armado. In the fifth of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi>
+remember, who could then have let us out of death, had not the Lord himſelf unto whom belong
+the iſſues from death, &amp;c. So more lately and moſt eſpecially, at the Towne of <hi>Lyme</hi> ſo long be<g ref="char:EOLhyphen"/>ſieged,
+and as it were ſurrounded: and that by ſuch a formidable Army, ſtormed twelve ſeverall
+times, and much of the Towneburnt, and yet let out from death. So likewiſe at <hi>Taunton, Gloceſter,
+Marſton Moore,</hi> &amp;c. it was apparently ſeene, that unto God the Lord alone, and not to our ene<g ref="char:EOLhyphen"/>mies
+belong the iſſues from death.</p>
+               <p>(7) Neither power, nor policy, neither ſtrength, nor ſtratagems, nor all the wiſedome and
+craftineſſe of man, can ſtand before the Wiſedome, and Power of God, <hi>Prov.</hi> 21. 30. He breakes
+their power, and takes them in their craftineſſe, yea he turnes their crafts and politique counſels a<g ref="char:EOLhyphen"/>gainſt
+themſelves; He deſtroyes them not only in their, counſels, but by their counſels; makes their
+own weapons wound them. This hath been a viſible truth, and frequently obvious in theſe our dayes,
+ſo that he who runnes may read it in the Booke of Gods wonderfull providences of late. Thus the
+Lord comes to be knowne by the judgement which he executes, the wicked is ſnared in the worke
+of his owne hands, <hi>Higgaion Selah, rem meditandam ſumme, Jun:</hi> Marke and meditate, <hi>Pſal.</hi> 9. 6.</p>
+               <p>(8) How many hidden things of darkeneſſe in theſe few yeares hath the God of glory been plea<g ref="char:EOLhyphen"/>ſed
+to bring to light, and thoſe horrid deſignes which lay ſo low under ground, and were carried
+on in ſuch a clandeſtine way, hath he diſcovered and made viſible before the Sun, and manifeſt in the
+eyes of all: (To give you onely one hint) the diſcovery of the plot, contrived by <hi>Waller, Tompkins,
+Challener,</hi> &amp;c. The ſurprizing that Cabinet of letters at <hi>Naſeby,</hi> &amp; many other letters intercepted both
+before &amp; ſince. The <hi>Iriſh</hi> Cabinet taken in the carriages of the Archbiſhop of <hi>Tuam,</hi> &amp;c. <hi>Job 12. 22. He
+diſcovereth deepe things out of darkeneſſe, and bringeth out to light the ſhadow of death. Jun: rem abſtruſiſſi<g ref="char:EOLhyphen"/>mam,</hi>
+That which is moſt ſecret and ſeemes to be buried in eternall ignorance, <hi>Hallelujah.</hi>
+               </p>
+               <p>(*) Who ſhall let? This in a ſpeciall manner appeared at <hi>Lyme;</hi> The Lord preſerving that poore
+people there againſt Prince <hi>Maurice,</hi> and all that formidable Army, notwithſtanding ſo long a
+ſiege, and ſtorming the ſame at leaſt 12. ſeverall times and burning much of the town: yet after all
+they could doe, this potent and formidable Army being, mouldred (as it were) quite away was
+forced to raiſe their fiege, and to return with ſhame of face, as once <hi>Senacherib, 2 Chron. 32. 21. Here the
+bower of the mighty men were broken. And they that ſtumbled were girt with ſtrength, 1 Sam. 2. 4. Halle lujah.</hi>
+               </p>
+               <p>(9) In the glory of his power, goodneſſe, and mercy in inabling ſuch a poore people to withſtand ſo many long Sieges, and fierce aſſaults of a potent enemy, and in ſending them reliefe ſeve<g ref="char:EOLhyphen"/>rall
+times ſtill ſo ſeaſonably, and raiſing the ſiege wh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in extremeſt diſtreſſe. How hath the Lord there, as alſo at <hi>Lyme, Gloceſter, Naſeby,</hi> &amp;c. <hi>ſhewed his people the power of his workes, He ſent redemp<g ref="char:EOLhyphen"/>tion
+to his people: He hath made his wonderfull workes ſo honourable and glorious for ever to be remembred: The Lord is gracious and full of compaſſion, Hallelujah. Pſal. 111. 4. 6. &amp;c.</hi>
+               </p>
+               <p>(10) Where after the ſurrendring of <hi>Briſtol.</hi> His Majeſty in Perſon with all his formidable Army drawne off from thence, and other garriſons, did lye in ſiege at leaſt a moneth, and yet could not
+prevaile, but upon his Excellency the Earle of <hi>Eſſex</hi> with the City forces approach withdrew, and after had a very great defeate at <hi>Newberry</hi> never to be forgotten: where the City brigade did moſt
+honourable and gallant ſervice. By ſtrength ſhall no man prevaile: O for ever let it be remembred what our condition was at the ſurrendring of <hi>Briſtoll,</hi> and how gloriouſly and graciouſly the Lord then
+wrought for us when no Army in the field. We have ſeene the goings, even the going, of thee our God, and our King: Thy wonderfull gracious providence in inabling that garriſon ſo long to hold
+out at ſuch a time abroade, and in preſerving the City and other places at home. <hi>Digitus hic Dei. Hallelujah.</hi>
+               </p>
+               <p>(11) See a Liſt lately printed of the victories obtained under the Command of his Excellency Sir <hi>Thomas Fairfax,</hi> containing 120, beſides a liſt before that of the victories obtained under the Com<g ref="char:EOLhyphen"/>mand
+of his Excellency the Earle of <hi>Eſſex</hi> containing 175. in all 295. Theſe are moſt worthy our reading, due obſerving, as alſo ever reſerving by us, <hi>Pſal. 40. 5. Many are the wonderfull workes O
+Lord our God which thou haſt done &amp;c. Our meditation of thee ſhall be ſweete, we will be glad in the Lord, Pſal.</hi> 104. 34.</p>
+               <p>(12) Take onely one inſtance, and that long agoe, to omit later which are very many, which my ſelfe obſerved, when our forces lay in ſiege before <hi>Yorke,</hi> 1644 and Prince <hi>Ruperts,</hi> and the Mar<g ref="char:EOLhyphen"/>queſſe
+of <hi>Newcaſtles</hi> Armies, with all the ſcumme of <hi>Lancaſhire,</hi> both Atheiſts and Papiſts, were combined and gathered together, and ready to engage with our forces. That weeke their was extraordi<g ref="char:EOLhyphen"/>nary
+ſeeking to God by faſting and prayer in the City. There were at leaſt four dayes ſet apart in publique. And at the cloſure of the laſt, w<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich was kept in <hi>Milke-ſtreete</hi> being <hi>Friday,</hi> came joyfull
+newes of that wonderfull overthrow given to that cruell and bloud-thirſty enemy at <hi>Maſton Moore,</hi> which was ſo much the more welcome newes, becauſe our hearts were ſadded a little before at the
+report of our ſiege being raiſed before <hi>Yorke.</hi> But God turned all for the b<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt: and indeede there were many remarkeable paſſages in that victory, (as there have been likewiſe in others) which deſerve to
+be written with a pen of iron, and with the point of a diamond, and to be graved upon the table of our hearts, and that one was none of the leaſt remarkeable, that it being the counſell of many of their
+chiefe Commanders to have marcht into the aſſociated Counties, it pleaſed the Lord (unto whom for ever be the prayſe) to fruſtrate that counſell; becauſe he had a purpoſe of bring evill upon that Popiſh
+Arm: there being ſlaine there of them on the place 4500. and taken 1500. 2 <hi>Sam. 17. 14. And Abſolom and all the men of Iſrael ſaid. The counſell of Huſhai the A<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chite is better then the counſell of A chi<g ref="char:EOLhyphen"/>rophell:
+for the Lord had appointed to defeate the good counſell of Achitophell,</hi> (wicked in it ſelfe) but good (<hi>i. e.</hi> wiſe and effectuall for the attaining <hi>Abſoloms</hi> end) <hi>to the intent that the Lord might bring evill upon
+Abſolom.</hi> Pſal. 65. 1, 2. <hi>Praiſe waiteth for thee O God in Sion, and unto thee ſhall the vow be performed. O thou that beareſt prayer, unto thee ſhall all fleſh come.</hi> Exod. 17. 11. <hi>And it came to paſſe, that when Moſes
+held up his hand that Iſrael prevailed.</hi>
+               </p>
+               <byline>By <hi>R. P.</hi> Miniſter of Gods Word.</byline>
+            </div>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Edm. Calamy.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>M. S.</hi> for <hi>John Hancocke</hi> in Popes-Head Alley. 1646.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
